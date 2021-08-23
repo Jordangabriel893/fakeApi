@@ -1,5 +1,5 @@
 {
   "cadastros": [
-  {"id": 1, "identificacao": ["nome":"Jordan", "telefone":"553291425", "dataNasc":"03/02/2000", "sexo":"Masculino", "naturalidade":"Brasileiro", "estadoCivil":"Solteiro", "profissao":"Desenvolvedor"],"endereco":[ "cidade":"Georgina", "bairro":"Tubaí", "enderecoResidencial":"Rua das Flores", "enderecoComercial":"Jardins" ], "diagnostico":["diagClini":"Preguiça", "diagFisio":"Procrastinação"]}
+  {"id": 1, "identificacao": [{"nome":"Jordan", "telefone":"553291425", "dataNasc":"03/02/2000", "sexo":"Masculino", "naturalidade":"Brasileiro", "estadoCivil":"Solteiro", "profissao":"Desenvolvedor"}],"endereco":[{"cidade":"Georgina", "bairro":"Tubaí", "enderecoResidencial":"Rua das Flores", "enderecoComercial":"Jardins"}], "diagnostico":[{"diagClini":"Preguiça", "diagFisio":"Procrastinação"}]}
   ]
 }
